@@ -1,0 +1,8 @@
+The output table “Part5Result.txt” is space separated data table that has six columns and 180 rows. 
+Columns:
+1) “Subject” identifies the participant who generated the data. The identity of the subjects are not known, so they receive a unique number 1 to 30.
+2) “Activity” describes what each subject was doing when the data was generated.
+3) "Avg_Body_Acc" which is the average (mean) of all linear motion data. 
+4) "STD_Body_Acc" which measures the standard deviation of all linear motion data.
+5) "Avg_Body_Gyro", which measures the average (mean) of all rotation forces. 
+6) "STD_Body_Gyro" which measures standard deviation of rotational forces. 
